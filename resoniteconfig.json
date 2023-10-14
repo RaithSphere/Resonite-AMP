@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "Config File",
+        "Category": "Config",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "HeadlessConfig ",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "HeadlessConfig ",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
